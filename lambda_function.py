@@ -11,7 +11,7 @@ from twilio.rest import Client
 from twilio.twiml.voice_response import VoiceResponse, Gather, Say
 from botocore.exceptions import ClientError, NoCredentialsError, ParamValidationError
 
-// add yours
+# add yours
 account_sid = '' 
 auth_token = ''
 from_number = ''
